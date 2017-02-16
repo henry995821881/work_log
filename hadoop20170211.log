@@ -1,0 +1,18 @@
+Job：
+--------
+Job.getInstence();
+
+ResourceManager:
+---------------
+all resouce belong to me
+
+
+NodeManager
+-------------
+ContainerManagerImpl
+ContainLauncher
+...
+
+MRAppMaster:
+--------------
+MR:mapper reducer
